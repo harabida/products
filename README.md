@@ -16,3 +16,6 @@ make sure your docker daemon is up and running and run the following :
 
 link to openapi doc : http://localhost:8080/v3/api-docs
 link to swagger ui : http://localhost:8080/swagger-ui/index.html
+
+### Hooks
+pre-commit
